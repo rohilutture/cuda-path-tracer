@@ -1,0 +1,3 @@
+scene cornell: 5144 triangles, BVH 3191 nodes (depth 14, build 2.3 ms, SAH cost 20.2)
+GPU (NVIDIA GeForce RTX 5090): 319.3 ms kernel, 656.88 Mpaths/s
+wrote results/cornell_gpu.png

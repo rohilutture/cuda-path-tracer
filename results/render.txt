@@ -1,0 +1,3 @@
+scene cornell: 5144 triangles, BVH 3191 nodes (depth 14, build 2.4 ms, SAH cost 20.2)
+CPU (24 threads): 14922 ms, 14.05 Mpaths/s
+wrote /mnt/c/Users/rohil/Downloads/gap-projects/06-cuda-path-tracer/results/cornell_cpu.png
